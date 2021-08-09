@@ -13,7 +13,9 @@ https://tryhackme.com/room/cmspit
 ---
 ## Reconnaissance
 Run Nmap scan to find possible entries point
-![[img/Nmap Scan.png]]
+
+![Nmap Scan](img/Nmap Scan.png)
+
 Found port `22` and `80`
 
 Checking the website
